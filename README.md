@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on Algorithm and Data Structure.
+- 😼 Undergraduate @ SJTU-SPEIT, majoring French and minoring Information Engineering.
+- 🔭 I’m currently working on Algorithm, Data Structure, and some interesting miscellaneous items.
 - 🌱 I’m currently learning Berkeley CS61B.
 - 👯 I’m looking to collaborate on Software Testing & Verification.
 - 🤔 I’m looking for help with Computer Architecture / Compiler / Static Analysis / Formal Methods.
-- 💬 Feel free to ask me about anything about SJTU-SPEIT。
-- 📫 How to reach me: ...
+- 💬 Working languages: Chinese(Mandarin), English, French(mal T_T). Feel free to ask me about anything about SJTU-SPEIT.
+- 📫 How to reach me: hjsdbb@outlook.com / hjsdbb1@gmail.com
