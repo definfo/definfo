@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😼 Undergraduate @ SJTU-SPEIT, majoring French and minoring Information Engineering.
+- 😼 I'm Yuxuan Sun, an undergraduate @ SJTU-SPEIT, majoring French and minoring Information Engineering.
 - 🔭 I’m currently working on Algorithm, Data Structure, and some interesting miscellaneous items.
 - 🌱 I’m currently learning Berkeley CS61B.
 - 👯 I’m looking to collaborate on Software Testing & Verification.
