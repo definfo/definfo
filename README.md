@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - 💬 Working languages: Chinese(Mandarin), English, French(mal T_T). Feel free to ask me about anything about SJTU-SPEIT.
 - 📫 How to reach me via e-mail: hjsdbb@outlook.com / hjsdbb1@gmail.com
 
+## Coding Stats
 [![definfo's GitHub stats](https://github-readme-stats-tau-sepia-53.vercel.app/api?username=definfo&theme=transparent&custom_title=definfo's+Github+Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-tau-sepia-53.vercel.app/api/top-langs/?username=definfo&theme=transparent&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![definfo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=definfo&theme=transparent&layout=compact&custom_title=definfo's+WakaTime+Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tech Stack & Personal Workflow
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,pytorch,java,rust,docker,git,nginx,arch,vim,vscode&perline=8)](https://skillicons.dev)
