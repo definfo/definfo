@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Working languages: Chinese(Mandarin), English, French(mal T_T). Feel free to ask me about anything about SJTU-SPEIT.
 - 📫 How to reach me via e-mail: hjsdbb@outlook.com / hjsdbb1@gmail.com
 
-[![definfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=definfo&theme=transparent&custom_title="definfo's Github Stats")](https://github.com/anuraghazra/github-readme-stats)
+[![definfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=definfo&theme=transparent&custom_title=definfo's+Github+Stats)](https://github.com/anuraghazra/github-readme-stats)
