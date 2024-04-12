@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![definfo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=definfo&theme=transparent&layout=compact&custom_title=definfo's+WakaTime+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack & Personal Workflow
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,pytorch,java,rust,docker,git,nginx,arch,vim,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,pytorch,java,rust,docker,git,nginx,arch,vim,vscodium&perline=12)](https://skillicons.dev)
