@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 - 😼 I'm Yuxuan Sun, an undergraduate @ SJTU-SPEIT, majoring French and minoring Information Engineering.
 - 🔭 I’m currently working on Algorithm, Data Structure, and some interesting miscellaneous items.
-- 🌱 I’m currently learning Berkeley CS61B.
-- 👯 I’m looking to collaborate on Software Testing & Verification.
+- 🌱 I’m currently learning rustlings / Berkeley CS61B.
+- 👯 I’m looking to collaborate on Formal Verification.
 - 🤔 I’m looking for help with Computer Architecture / Compiler / Static Analysis / Formal Methods.
 - 💬 Working languages: Chinese(Mandarin), English, French(mal T_T). Feel free to ask me about anything about SJTU-SPEIT.
-- 📫 How to reach me: hjsdbb@outlook.com / hjsdbb1@gmail.com
+- 📫 How to reach me via e-mail: hjsdbb@outlook.com / hjsdbb1@gmail.com
+
+[![definfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=definfo)](https://github.com/anuraghazra/github-readme-stats)
