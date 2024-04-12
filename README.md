@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 [![definfo's GitHub stats](https://github-readme-stats-tau-sepia-53.vercel.app/api?username=definfo&theme=transparent&custom_title=definfo's+Github+Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-tau-sepia-53.vercel.app/api/top-langs/?username=definfo&theme=transparent&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![definfo's WakaTime stats](https://github-readme-stats-tau-sepia-53.vercel.app/api/wakatime?username=definfo&theme=transparent&layout=compact&custom_title=definfo's+WakaTime+Stats)](https://github.com/anuraghazra/github-readme-stats)
