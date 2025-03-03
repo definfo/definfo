@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on Formal Verification with Coq Proof Assistant.
 - 🌱 I'm currently learning algorithm verification, compiler and Rust dev skills.
 - 👯 I'm looking to collaborate on NixOS contribution.
-- 🤔 I'm looking for help with compiler frontend.
-- 💬 Working languages: Chinese(Mandarin), English, French(mal T_T). Feel free to ask me anything about SJTU-SPEIT.
-- 📫 How to reach me via e-mail: hjsdbb@outlook.com / hjsdbb1@gmail.com
+- 🤔 I'm looking for SDE internship.
+- 💬 Working languages: Chinese(Mandarin), English, French. Feel free to ask me anything about SJTU-SPEIT.
+- 📫 How to reach me via e-mail: hjsdbb1@gmail.com
 
 ## Coding Stats
 [![definfo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=definfo&theme=transparent&layout=compact&custom_title=definfo's+WakaTime+Stats)](https://github.com/anuraghazra/github-readme-stats)
