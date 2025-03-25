@@ -26,6 +26,19 @@ Here are some ideas to get you started:
 ## Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 March 2025 - To: 24 March 2025
+
+Total Time: 30 hrs 23 mins
+
+Coq           9 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+Markdown      8 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+Nix           4 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Rust          3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+MATLAB        1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=definfo&layout=donut&theme=dracula&exclude_repo=xv6-labs-2023)
