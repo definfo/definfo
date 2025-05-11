@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2025 - To: 08 May 2025
+From: 02 May 2025 - To: 09 May 2025
 
-Total Time: 17 hrs 3 mins
+Total Time: 22 hrs 42 mins
 
-Nix                 6 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   36.87 %
-Rust                3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-Markdown            1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Python              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Gradle Kotlin DSL   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Nix                 10 hrs 11 mins  ███████████░░░░░░░░░░░░░░   43.71 %
+Rust                3 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Python              2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Markdown            2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Gradle Kotlin DSL   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
 ```
 
 <!--END_SECTION:waka-->
