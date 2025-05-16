@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2025 - To: 13 May 2025
+From: 07 May 2025 - To: 14 May 2025
 
-Total Time: 38 hrs 21 mins
+Total Time: 40 hrs 35 mins
 
-Nix                 12 hrs 46 mins  ████████░░░░░░░░░░░░░░░░░   32.64 %
-Rust                7 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Markdown            6 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Coq                 3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Python              2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Nix                 16 hrs 33 mins  ██████████░░░░░░░░░░░░░░░   40.10 %
+Rust                6 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Markdown            6 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Coq                 3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Python              1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
