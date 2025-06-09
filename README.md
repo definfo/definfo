@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on Formal Verification with Rocq(Coq) Proof Assistant.
 - 🌱 I'm currently learning algorithm verification, compiler design & implementation, and Rust dev skills.
 - 👯 I'm looking to collaborate on NixOS contribution.
-- 🤔 I'm looking for SDE internship.
 - 💬 Working languages: 中文(普通话), English, Français. Feel free to ask me anything about SJTU-SPEIT.
 - 📫 How to reach me via e-mail: hjsdbb1@gmail.com
 
