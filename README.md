@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2025 - To: 20 June 2025
+From: 14 June 2025 - To: 21 June 2025
 
-Total Time: 38 hrs 5 mins
+Total Time: 34 hrs 22 mins
 
-Nix            17 hrs 50 mins  ███████████▓░░░░░░░░░░░░░   46.65 %
-Haskell        9 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-Lean           5 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-C++            1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Cabal Config   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Nix            15 hrs 33 mins  ███████████▒░░░░░░░░░░░░░   45.07 %
+Haskell        9 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
+Lean           5 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+C++            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Cabal Config   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
