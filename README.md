@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2025 - To: 11 July 2025
+From: 05 July 2025 - To: 12 July 2025
 
-Total Time: 5 hrs 9 mins
+Total Time: 5 hrs 34 mins
 
-Coq          2 hrs 17 mins   ███████████░░░░░░░░░░░░░░   43.59 %
-Python       1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-Markdown     56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Nix          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-TypeScript   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Coq        2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.29 %
+Markdown   1 hr 48 mins    ████████░░░░░░░░░░░░░░░░░   31.89 %
+Python     1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Nix        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+YAML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
