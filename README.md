@@ -27,15 +27,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2025 - To: 27 July 2025
+From: 21 July 2025 - To: 28 July 2025
 
-Total Time: 5 hrs 20 mins
+Total Time: 3 hrs 25 mins
 
-Markdown           3 hrs 18 mins   ███████████████▒░░░░░░░░░   61.86 %
-Haskell            1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-reStructuredText   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Cabal Config       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Nix                7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Markdown       1 hr 56 mins    ██████████████▒░░░░░░░░░░   56.67 %
+Haskell        1 hr 9 mins     ████████▒░░░░░░░░░░░░░░░░   33.53 %
+Cabal Config   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
