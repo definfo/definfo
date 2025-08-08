@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 05 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
-Total Time: 17 hrs 11 mins
+Total Time: 17 hrs 6 mins
 
-Nix                        9 hrs 55 mins   ██████████████░░░░░░░░░░░   56.29 %
-Haskell                    2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-C++                        2 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Nginx configuration file   1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-JSON                       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Nix                        9 hrs 53 mins   ██████████████░░░░░░░░░░░   56.33 %
+Haskell                    2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+C++                        2 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Nginx configuration file   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+JSON                       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
