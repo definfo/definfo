@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Total Time: 11 hrs 52 mins
+Total Time: 12 hrs 1 min
 
-Haskell        6 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.11 %
-Other          1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Typst          1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Nix            36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Python         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Haskell        5 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.30 %
+Nix            1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Typst          1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Other          1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Python         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
