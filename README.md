@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 23 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Total Time: 7 hrs 59 mins
+Total Time: 9 hrs 40 mins
 
-Nix           3 hrs 55 mins   ████████████▒░░░░░░░░░░░░   48.73 %
-Haskell       1 hr 35 mins    █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-Markdown      35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-LLVM          29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Logos         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Nix           2 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+MDX           1 hr 54 mins    █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+Haskell       1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Markdown      1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+YAML          1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
 ```
 
 <!--END_SECTION:waka-->
