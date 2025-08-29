@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 26 August 2025
+From: 20 August 2025 - To: 27 August 2025
 
-Total Time: 8 hrs 34 mins
+Total Time: 10 hrs 5 mins
 
-MDX           2 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Haskell       1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
-Markdown      1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-YAML          1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Caddyfile     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+MDX           3 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.56 %
+Haskell       1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Markdown      1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+YAML          1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Caddyfile     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
