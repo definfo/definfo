@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 15 hrs 18 mins
+Total Time: 13 hrs 31 mins
 
-Nix          5 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   36.48 %
-YAML         2 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-Python       1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Makefile     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-C++          1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Nix          4 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   35.11 %
+YAML         2 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+Makefile     1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+C++          1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Python       1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
 ```
 
 <!--END_SECTION:waka-->
