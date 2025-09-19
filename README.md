@@ -27,15 +27,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Total Time: 9 mins
+Total Time: 4 mins
 
-YAML       5 mins          ██████████████▒░░░░░░░░░░   56.93 %
-Nix        2 mins          ████████░░░░░░░░░░░░░░░░░   31.45 %
-TOML       0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Nix      2 mins          █████████████████▓░░░░░░░   71.08 %
+TOML     0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+YAML     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
