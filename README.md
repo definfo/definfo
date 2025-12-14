@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2025 - To: 11 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 1 hr 27 mins
+Total Time: 5 hrs 6 mins
 
-Nix     1 hr 25 mins    ████████████████████████▒   96.82 %
-YAML    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Nix     5 hrs 4 mins    ████████████████████████▓   99.05 %
+YAML    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
