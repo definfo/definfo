@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😼 I'm an undergraduate @ SJTU-SPEIT.
 - 🔭 I'm currently working on Formal Verification with Rocq (formally Coq) Prover.
-- 🌱 I'm currently learning Operating System, Type Theory, Program Logic. etc.
+- 🌱 I'm currently learning Operating System, Type Theory, Program Logic, etc.
 - 👯 I'm looking to collaborate on NixOS contribution.
 - 💬 Working languages: 中文(普通话), English, Français. Feel free to ask me anything about SJTU-SPEIT.
 - 📫 How to reach me via e-mail: hjsdbb1@gmail.com
