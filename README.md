@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Total Time: 17 hrs 52 mins
+Total Time: 15 hrs 57 mins
 
-Nix            8 hrs 29 mins   ████████████░░░░░░░░░░░░░   47.46 %
-C              3 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Markdown       2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Coq            1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Assembly       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Nix          6 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.17 %
+C            3 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Markdown     2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Coq          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Assembly     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
