@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-Total Time: 11 hrs 20 mins
+Total Time: 14 hrs 18 mins
 
-Typst         4 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.01 %
-Nix           3 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-C++           1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Markdown      59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-YAML          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Typst         7 hrs 17 mins   ████████████▓░░░░░░░░░░░░   50.44 %
+Nix           3 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+C++           1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Markdown      59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+YAML          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
