@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Total Time: 5 hrs 39 mins
+Total Time: 4 hrs 43 mins
 
-C            1 hr 44 mins    ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-Nix          1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
-Markdown     1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-TypeScript   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-CMake        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Nix          1 hr 28 mins    ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+C            1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Markdown     56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+TypeScript   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
