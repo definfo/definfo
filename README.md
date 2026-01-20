@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-Total Time: 6 hrs 53 mins
+Total Time: 5 hrs 56 mins
 
-Nix            3 hrs 27 mins   ████████████░░░░░░░░░░░░░   48.59 %
-Markdown       1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-Typst          45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-TypeScript     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-JSON           24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Nix            2 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   40.34 %
+Markdown       1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+Typst          45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+TypeScript     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+JSON           24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
