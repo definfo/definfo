@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2026 - To: 23 January 2026
+From: 17 January 2026 - To: 24 January 2026
 
-Total Time: 12 hrs 36 mins
+Total Time: 12 hrs 19 mins
 
-Coq           4 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.35 %
-C++           3 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-Typst         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-C             46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Nix           43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Coq           4 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   39.23 %
+C++           3 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
+Typst         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+C             46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+CMake         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
