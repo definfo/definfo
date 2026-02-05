@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2026 - To: 02 February 2026
+From: 27 January 2026 - To: 03 February 2026
 
-Total Time: 3 hrs 58 mins
+Total Time: 5 hrs 20 mins
 
-Nix         1 hr 22 mins    ████████▓░░░░░░░░░░░░░░░░   34.01 %
-Rust        51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-Bash        40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Coq         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-TOML        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Nix         1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
+Go          1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+Rust        51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+Bash        40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Coq         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
 ```
 
 <!--END_SECTION:waka-->
