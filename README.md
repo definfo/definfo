@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Total Time: 8 hrs 57 mins
+Total Time: 6 hrs 44 mins
 
-Haskell              3 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.39 %
-Astro                1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Cabal Config         1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-C++                  52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-JavaScript           21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Haskell        3 hrs 50 mins   ██████████████░░░░░░░░░░░   56.49 %
+Cabal Config   1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+C++            52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+Astro          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Nix            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
