@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2026 - To: 22 February 2026
+From: 16 February 2026 - To: 23 February 2026
 
-Total Time: 6 hrs 29 mins
+Total Time: 4 hrs 9 mins
 
-Rust           2 hrs 38 mins         ██████████░░░░░░░░░░░░░░░   40.38 %
-Nix            2 hrs 26 mins         █████████▒░░░░░░░░░░░░░░░   37.32 %
-TOML           31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Markdown       22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Git Config     14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Rust           1 hr 45 mins          ██████████▓░░░░░░░░░░░░░░   42.08 %
+Nix            1 hr 7 mins           ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+TOML           17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Haskell        15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Fluent         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
