@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Total Time: 20 hrs 2 mins
+Total Time: 19 hrs 48 mins
 
-Haskell                    8 hrs 42 mins         ██████████▓░░░░░░░░░░░░░░   43.27 %
-Nix                        7 hrs 53 mins         █████████▓░░░░░░░░░░░░░░░   39.21 %
-YAML                       56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Nginx configuration file   39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-JSON                       31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Haskell                    8 hrs 14 mins         ██████████▒░░░░░░░░░░░░░░   41.44 %
+Nix                        7 hrs 20 mins         █████████▒░░░░░░░░░░░░░░░   36.98 %
+Typst                      1 hr 11 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+YAML                       55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Nginx configuration file   39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
