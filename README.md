@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2026 - To: 11 March 2026
+From: 06 March 2026 - To: 13 March 2026
 
-Total Time: 14 hrs 38 mins
+Total Time: 14 hrs 52 mins
 
-Nix            4 hrs 41 mins         ████████░░░░░░░░░░░░░░░░░   31.83 %
-Typst          4 hrs 6 mins          ███████░░░░░░░░░░░░░░░░░░   27.91 %
-Haskell        2 hrs 54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.70 %
-Coq            1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Cabal Config   53 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Nix            4 hrs 27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.68 %
+Typst          2 hrs 54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+Haskell        2 hrs 54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+Coq            1 hr 52 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Cabal Config   53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->
