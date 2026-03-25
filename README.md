@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2026 - To: 22 March 2026
+From: 16 March 2026 - To: 23 March 2026
 
-Total Time: 11 hrs 21 mins
+Total Time: 10 hrs 25 mins
 
-Coq        3 hrs 39 mins         ████████░░░░░░░░░░░░░░░░░   31.56 %
-Nix        3 hrs 24 mins         ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-Rust       3 hrs 1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-TOML       42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Makefile   25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Coq        3 hrs 39 mins         ████████▓░░░░░░░░░░░░░░░░   34.34 %
+Rust       3 hrs 1 min           ███████░░░░░░░░░░░░░░░░░░   28.40 %
+Nix        2 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+TOML       42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Makefile   25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
