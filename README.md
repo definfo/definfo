@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-Total Time: 13 hrs 28 mins
+Total Time: 14 hrs 48 mins
 
-Other          14 hrs 2 mins         ████████████▓░░░░░░░░░░░░   51.04 %
-Coq            4 hrs 12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Rust           2 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Nix            1 hr 38 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-TypeScript     1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Other          15 hrs 22 mins        ████████████▓░░░░░░░░░░░░   50.95 %
+Coq            5 hrs 47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+Rust           2 hrs 2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Nix            1 hr 38 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Markdown       1 hr 11 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
