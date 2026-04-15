@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Operating System, Type Theory, Program Logic, etc.
 - 👯 I'm looking to collaborate on NixOS contribution.
 - 💬 Working languages: 中文(普通话), English, Français. Feel free to ask me anything about SJTU-SPEIT.
-- 📫 How to reach me via e-mail: hjsdbb1@gmail.com
+- 📫 How to reach me via e-mail: comonad@a-stable.com / hjsdbb1@gmail.com
+
+- Misc: avatar is 鈴木ヒナ from HIMEHINA.
 
 ## Coding Stats
 
