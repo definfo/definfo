@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Total Time: 16 hrs 40 mins
+Total Time: 21 hrs 2 mins
 
-TeX           4 hrs 46 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-Nix           4 hrs 34 mins         ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-Other         2 hrs 53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Markdown      1 hr 59 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-XML           1 hr 28 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+TeX           9 hrs 36 mins         ██████████░░░░░░░░░░░░░░░   39.59 %
+Nix           4 hrs 14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Other         3 hrs 13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Markdown      1 hr 48 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+XML           1 hr 28 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
