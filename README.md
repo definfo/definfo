@@ -41,5 +41,3 @@ Markdown       3 hrs 5 mins          █▒░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=definfo&layout=donut&theme=dracula&exclude_repo=xv6-labs-2023)
