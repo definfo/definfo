@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2026 - To: 23 July 2026
+From: 17 July 2026 - To: 24 July 2026
 
-Total Time: 13 hrs 38 mins
+Total Time: 14 hrs 14 mins
 
-Coq                        4 hrs 32 mins         ███████░░░░░░░░░░░░░░░░░░   27.83 %
-Other                      2 hrs 39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-Nix                        1 hr 59 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-C                          1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Markdown                   1 hr 28 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Coq                        5 hrs 44 mins         ████████▒░░░░░░░░░░░░░░░░   33.98 %
+Other                      2 hrs 39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Nix                        1 hr 57 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+C                          1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Markdown                   1 hr 29 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
 ```
 
 <!--END_SECTION:waka-->
