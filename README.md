@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Total Time: 12 hrs 14 mins
+Total Time: 4 hrs 48 mins
 
-C                          8 hrs 22 mins         ███████████████▓░░░░░░░░░   63.21 %
-Coq                        1 hr 12 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Other                      1 hr                  ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Bash                       46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Nix                        40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Markdown                   1 hr 37 mins          ███████▒░░░░░░░░░░░░░░░░░   29.64 %
+OCaml                      1 hr 33 mins          ███████░░░░░░░░░░░░░░░░░░   28.34 %
+Other                      41 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+YAML                       26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Nix                        24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
