@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
-Total Time: 5 hrs 11 mins
+Total Time: 1 hr 10 mins
 
-Markdown      1 hr 34 mins          ██████░░░░░░░░░░░░░░░░░░░   24.22 %
-Rust          1 hr 29 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
-Other         1 hr 17 mins          █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-YAML          49 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Makefile      29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Other        58 mins               ███████████▒░░░░░░░░░░░░░   45.01 %
+Rust         45 mins               █████████░░░░░░░░░░░░░░░░   35.38 %
+Markdown     17 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Nix          6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TOML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
