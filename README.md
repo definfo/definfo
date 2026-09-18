@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-Total Time: 8 hrs 37 mins
+Total Time: 11 hrs 27 mins
 
-Nix                1 hr 47 mins          █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-Rust               1 hr 28 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Go                 1 hr 19 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-YAML               1 hr 12 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Other              38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Nix                1 hr 48 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Coq                1 hr 35 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+Rust               1 hr 28 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Go                 1 hr 19 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+YAML               1 hr 12 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
 ```
 
 <!--END_SECTION:waka-->
