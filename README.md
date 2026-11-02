@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😼 I'm an undergraduate @ SJTU-SPEIT.
 - 🔭 I'm currently working on Formal Verification with Rocq (formally Coq) Prover.
-- 🌱 I'm currently learning Operating System, Type Theory, Program Logic, etc.
-- 👯 I'm looking to collaborate on NixOS contribution.
-- 💬 Working languages: 中文(普通话), English, Français. Feel free to ask me anything about SJTU-SPEIT.
+- 👯 I'm looking to collaborate on Nix-related projects.
+- 💬 Working languages: 中文(普通话), English, Français.
 - 📫 How to reach me via e-mail: comonad@a-stable.com / hjsdbb1@gmail.com
 
 - Misc: avatar is 鈴木ヒナ from HIMEHINA.
