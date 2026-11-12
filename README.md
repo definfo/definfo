@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently working on Formal Verification with Rocq (formally Coq) Prover.
-- 👯 I'm looking to collaborate on Nix-related projects.
+- 👯 I'm looking to collaborate on Wayland internals and/or Nix-related projects.
 - 💬 Working languages: 中文(普通话), English, Français.
 - 📫 How to reach me via e-mail: comonad@a-stable.com / hjsdbb1@gmail.com
 
